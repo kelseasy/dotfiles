@@ -2,5 +2,7 @@
 	email = michael.zapata@scality.com
 	name = Michael Zapata
 	signingkey = michael.zapata@scality.com
+[core]
+	excludesfile = /home/michael/dotfiles/.gitignore_global
 [commit]
 	gpgsign = true

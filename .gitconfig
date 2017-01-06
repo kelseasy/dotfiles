@@ -1,0 +1,6 @@
+[user]
+	email = michael.zapata@scality.com
+	name = Michael Zapata
+	signingkey = michael.zapata@scality.com
+[commit]
+	gpgsign = true

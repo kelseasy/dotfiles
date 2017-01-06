@@ -4,5 +4,7 @@
 	signingkey = michael.zapata@scality.com
 [core]
 	excludesfile = /home/michael/dotfiles/.gitignore_global
+[init]
+	templatedir = ~/dotfiles/.git_template
 [commit]
 	gpgsign = true

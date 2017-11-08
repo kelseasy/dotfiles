@@ -1,7 +1,6 @@
 [user]
 	email = michael.zapata@scality.com
 	name = Michael Zapata
-	signingkey = michael.zapata@scality.com
 [core]
 	excludesfile = ~/.config/git/ignore_global
 	pager = less -RSFX
@@ -11,5 +10,3 @@
 	ff = false
 [fetch]
 	prune = true
-[commit]
-	gpgsign = true
